@@ -1,8 +1,10 @@
 Datapack Capability Per Mod 
 
-Effect
 
 
-Neaopolitan 
-- choose effects that are not removed by vanilla scent effects
-- choose entity that are not pacified by harmony effect
+Neapolitan 
+- vanilla scent effect exception (effect)
+- harmony effect exception (entity)
+
+Supplementaries
+- cagable mobs (entity)
