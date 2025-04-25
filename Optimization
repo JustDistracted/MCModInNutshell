@@ -1,12 +1,72 @@
-Absolutely Necessary
-- ModernFix
+1.20.1 Forge 47.4.0
+
+Use graaval java 24.0
+-XX:+UseZGC -XX:+ZGenerational -XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders
+
+
+Necessary 
+- Modernfix (Dynamic Resources, mixin.perf.faster_item_rendering and mixin.perf.worldgen_allocation)
 - FerriteCore
-- Embeddium++
-- Redirector
+- Embeddium 
+- Immediately Fast (You may want to set experimental_screen_batching to true in the config file	)
+- AllTheLeaks	
+- Noisium
+- Radium
 
-Not Confirmed
+
+Selective but still good 
+- Enhanced Block Entities
+- Cull Less Leaves Reforged	
+- Entity Culling	
+- Fast Suite
+- Flerovium
+- Immersive Optimization	
+- Krypton (multi only)
+- Mobtimizations	
+- Particle Core	
+- SerializationIsBad	
+- Structure Layout Optimizer	
+- Structure Essential
+- Vanillin	
+
+Not optimization but still use 
+- Dynamic FPS 
+- Observable
+- Neruina
+- Spark
+
+Test?
+- AsyncParticles	
+- Debugify/Debugify Reforged/Modern Debugify	
+- Recipe Essential (it says not compat to Fast suite) 
+- Servercore 
+
+Maybe nope
+- AI Improvement 
+- BadOptimizations
 - Chunk Sending
-
+- Embeddium++
+- Server Performance - Smooth Chunk Save
 
 Nope
-- Better Chunk Loading
+- Bobby
+- Bocchium 
+- Better Beds 
+- Better FPS - Render Distance
+- Brute force render culling	
+- Canary
+- Dashloader
+- DoesPotatoTick?
+- Fast Anim
+- Fastboot
+- Fastload
+- FPS Boost (by The_TCT)	
+- Ksyxis
+- MemoryLeakFix	
+- Redirected/Redirector/Redirectionor	
+- Saturn	
+- StutterFix	
+- ThreatenGL	
+- Unibilium	
+- VulkanMod	
+- Xenon
